@@ -1,5 +1,7 @@
 # vue-demo
 
+---2018.07.30---
+
 <--技术栈-->
 1. [vue](https://cn.vuejs.org/v2/guide/)
 2. [vue-router](https://router.vuejs.org/zh-cn/essentials/getting-started.html)
